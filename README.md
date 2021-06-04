@@ -3,13 +3,10 @@ Data Science Project aiming to build a machine knowledgable in basketball
 
 ## Usage
 
-```python
-from final_model import Model # fetch the NBA model class
-
-
-print('Initializing Model...')
-model = Model('basketball') # initialize
-model.evaluate_model() # evaluate the model
+```
+git clone https://github.com/quant-scientist/nba-teams.git
+cd nba-teams
+python main.py
 ```
 
 ## Contributing
